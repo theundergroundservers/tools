@@ -1,0 +1,49 @@
+# === Node ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Optional build output
+dist/
+build/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+venv/
+env/
+ENV/
+.idea/
+
+# Python bytecode files
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# === TypeScript ===
+*.tsbuildinfo
+*.d.ts
+
+# === IDEs and editors ===
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+*.log
+
+# === OS files ===
+Thumbs.db
+.DS_Store
