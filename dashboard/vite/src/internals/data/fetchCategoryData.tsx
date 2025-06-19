@@ -17,7 +17,7 @@ export async function fetchCategoryData(
 ): Promise<CategoryDataItem[]> {
   try {
     const response = await fetch(
-      `${apiUrl}by_category?days=${days}&type=${buySell}`
+      `${apiUrl}api/by_category?days=${days}&type=${buySell}`
     );
     const json: CategoryApiResponse[] = await response.json();
     return json[0]?.data ?? [];

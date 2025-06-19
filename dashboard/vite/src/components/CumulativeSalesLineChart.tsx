@@ -23,7 +23,7 @@ export default function CumulativeSalesLineChart() {
     <Card variant="outlined">
       <CardContent>
         <Typography component="h2" variant="subtitle2" gutterBottom>
-          Cumulative Sales
+          Cumulative Sales and Purchases
         </Typography>
         <LineChart
           height={300}

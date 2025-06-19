@@ -15,15 +15,7 @@ app = Flask(__name__, static_folder=None)
 CORS(app)
 
 # Initialize flask-vite
-vite = Vite(app, vite_folder="dashboard/vite", vite_routes_host="*")
-
-
-
-
-# Serve static files built by Vite
-@app.route('/static/<path:filename>')
-def serve_static(filename):
-    return send_from_directory(os.path.join(app.root_path, 'static'), filename)
+vite = Vite(app)
 
 
 def load_data():

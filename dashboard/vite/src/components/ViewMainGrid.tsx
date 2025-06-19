@@ -19,7 +19,7 @@ export default function ViewMainGrid() {
         sx={{ mb: (theme) => theme.spacing(2) }}
       >
         <Grid size={{ xs: 9, md: 9 }}>
-          <CategoryDaily days={30} title="Sales per day by category"/>                    
+          <CategoryDaily days={30} title="Daily Trader activity"/>                    
         </Grid>        
         <Grid size={{ xs: 3, md: 3 }}>
           <CategoryPie days={999} title="Purchases by category all time" buySell='buy' />

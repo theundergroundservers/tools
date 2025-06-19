@@ -59,11 +59,6 @@ export default function CategoryDaily({ days = 999, title = 'By category' }: Sal
             <MenuItem value="sell">Sell</MenuItem>
           </Select>
         </Stack>
-
-        <Typography variant="caption" sx={{ color: 'text.secondary', mb: 1, display: 'block' }}>
-          Sales by day – last {days} day{days !== 1 ? 's' : ''}
-        </Typography>
-
         <BarChart
           dataset={dataset}
           series={coloredSeries}
