@@ -6,6 +6,7 @@
     "@mui/material": "^7.1.1",
     "@mui/x-charts": "^8.5.2",
     "@mui/x-data-grid": "^8.5.2",
-    "dayjs": "^1.11.13"
+    "dayjs": "^1.11.13",
+    "flask": "^0.2.10"
   }
 }

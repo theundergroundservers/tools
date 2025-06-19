@@ -40,8 +40,8 @@ PATTERN_VEHICLE_GARAGE_SELL = re.compile(
 )
 
 def get_data(): 
-    logs_dir = '../../omega/servers/season-6/logs'
-    vehicle_price_file = '../../omega/servers/season-6/profiles/LBMaster/config/LBGarage/vehicles.json'
+    logs_dir = '../../../omega/servers/season-6/logs'
+    vehicle_price_file = '../../../omega/servers/season-6/profiles/LBMaster/config/LBGarage/vehicles.json'
 
     vehicle_prices = get_lb_vehicles_map(vehicle_price_file)
     data = parse_log_folders(logs_dir, vehicle_prices)
@@ -236,12 +236,12 @@ def to_files(data):
             ]
         )
 
-    with open('../data/data.csv', 'w', newline='') as f:
+    with open('../../data/data.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerows(lines)
 
     # Write to a JSON file
-    with open("../data/data.json", "w", encoding="utf-8") as f:
+    with open("../../data/data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
 
@@ -274,7 +274,7 @@ def get_lb_vehicles_map(filename):
         }
 
     # Write to a JSON file
-    with open("../data/vehicles.json", "w", encoding="utf-8") as f:
+    with open("../../data/vehicles.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
     
     return data

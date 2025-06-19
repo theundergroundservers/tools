@@ -1,11 +1,30 @@
-from flask import Flask, jsonify, request
-from flask_cors import CORS, cross_origin
-import pandas as pd
-import generate_market_sales as gen
+# server/app.py
+import os
 from datetime import datetime, timedelta
 import threading
 
-app = Flask(__name__)
+from flask import Flask, jsonify, request, render_template, send_from_directory
+from flask_cors import CORS, cross_origin
+from flask_vite import Vite
+
+import pandas as pd
+
+import generate_market_sales as gen
+
+app = Flask(__name__, static_folder=None)
+CORS(app)
+
+# Initialize flask-vite
+vite = Vite(app, vite_folder="dashboard/vite", vite_routes_host="*")
+
+
+
+
+# Serve static files built by Vite
+@app.route('/static/<path:filename>')
+def serve_static(filename):
+    return send_from_directory(os.path.join(app.root_path, 'static'), filename)
+
 
 def load_data():
     global raw

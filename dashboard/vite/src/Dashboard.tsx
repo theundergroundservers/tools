@@ -16,16 +16,12 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import {
   chartsCustomizations,
-  dataGridCustomizations,
-  datePickersCustomizations,
-  treeViewCustomizations,
+  dataGridCustomizations,  
 } from './theme/customizations';
 
 const xThemeComponents = {
   ...chartsCustomizations,
-  ...dataGridCustomizations,
-  ...datePickersCustomizations,
-  ...treeViewCustomizations,
+  ...dataGridCustomizations  
 };
 
 export default function Dashboard(props: { disableCustomTheme?: boolean }) {
