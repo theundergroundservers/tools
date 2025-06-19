@@ -1,0 +1,3246 @@
+{
+  "CivilianSedan_Black": {
+    "buy_price": 60000,
+    "sell_price": 30000
+  },
+  "CivilianSedan": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "CivilianSedan_Wine": {
+    "buy_price": 60000,
+    "sell_price": 30000
+  },
+  "Hatchback_02_Black": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "Hatchback_02": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Hatchback_02_Blue": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "OffroadHatchback_Blue": {
+    "buy_price": 75000,
+    "sell_price": 37500
+  },
+  "OffroadHatchback": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "OffroadHatchback_White": {
+    "buy_price": 75000,
+    "sell_price": 37500
+  },
+  "Sedan_02_Grey": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "Sedan_02": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Sedan_02_Red": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "Truck_01_Covered_Orange": {
+    "buy_price": 75000,
+    "sell_price": 37500
+  },
+  "Truck_01_Covered": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Truck_01_Covered_Blue": {
+    "buy_price": 75000,
+    "sell_price": 37500
+  },
+  "RFWC_CarpBoat": {
+    "buy_price": 95000,
+    "sell_price": 47500
+  },
+  "carpboat": {
+    "buy_price": 95000,
+    "sell_price": 47500
+  },
+  "RFWC_CarpBoat_Rusty": {
+    "buy_price": 95000,
+    "sell_price": 47500
+  },
+  "RFWC_DragBoat_Black": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "DragBoat": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "RFWC_DragBoat_Blue": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "RFWC_DragBoat_Red": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "RFWC_Seadoo_Camo": {
+    "buy_price": 65000,
+    "sell_price": 32500
+  },
+  "Seadoo": {
+    "buy_price": 65000,
+    "sell_price": 32500
+  },
+  "RFWC_Seadoo_Green": {
+    "buy_price": 65000,
+    "sell_price": 32500
+  },
+  "RFWC_Seadoo_Orange": {
+    "buy_price": 65000,
+    "sell_price": 32500
+  },
+  "RFWC_Whaler": {
+    "buy_price": 95000,
+    "sell_price": 47500
+  },
+  "Whaler": {
+    "buy_price": 95000,
+    "sell_price": 47500
+  },
+  "RFWC_Zodiac_Black": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "Zodiac": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "RFWC_Zodiac_Orange": {
+    "buy_price": 55000,
+    "sell_price": 27500
+  },
+  "RFFSHeli_AS350": {
+    "buy_price": 4600000,
+    "sell_price": 2300000
+  },
+  "AS350": {
+    "buy_price": 4600000,
+    "sell_price": 2300000
+  },
+  "RFFSHeli_Apache_Grey": {
+    "buy_price": 3850000,
+    "sell_price": 1925000
+  },
+  "Apache": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RFFSHeli_Apache_Desert": {
+    "buy_price": 3850000,
+    "sell_price": 1925000
+  },
+  "RFFSHeli_Apache_Winter": {
+    "buy_price": 3850000,
+    "sell_price": 1925000
+  },
+  "RFFSHeli_Bell429": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "Bell429": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_Bell429_Medic": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_Bell429_Police": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_Bell429_Uganda": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_Bell429_ZS": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_Blackhawk": {
+    "buy_price": 5000000,
+    "sell_price": 2500000
+  },
+  "Blackhawk": {
+    "buy_price": 5000000,
+    "sell_price": 2500000
+  },
+  "RFFSHeli_Blackhawk_Budhawk": {
+    "buy_price": 5000000,
+    "sell_price": 2500000
+  },
+  "RFFSHeli_Blackhawk_Cargo": {
+    "buy_price": 5000000,
+    "sell_price": 2500000
+  },
+  "RFFSHeli_Blackhawk_Woodland": {
+    "buy_price": 5000000,
+    "sell_price": 2500000
+  },
+  "RFFSHeli_Blackhawk_blackBlackhawk": {
+    "buy_price": 5000000,
+    "sell_price": 2500000
+  },
+  "RFFSHeli_Bo105m": {
+    "buy_price": 3950000,
+    "sell_price": 1975000
+  },
+  "Bo105m": {
+    "buy_price": 3950000,
+    "sell_price": 1975000
+  },
+  "RFFSHeli_Bo105m_blackcamo": {
+    "buy_price": 3950000,
+    "sell_price": 1975000
+  },
+  "RFFSHeli_CH47": {
+    "buy_price": 7650000,
+    "sell_price": 3975000
+  },
+  "CH47": {
+    "buy_price": 7650000,
+    "sell_price": 3975000
+  },
+  "RFFSHeli_CH53e": {
+    "buy_price": 7650000,
+    "sell_price": 3975000
+  },
+  "CH53E": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RFFSHeli_EC135": {
+    "buy_price": 4600000,
+    "sell_price": 2300000
+  },
+  "EC135": {
+    "buy_price": 4600000,
+    "sell_price": 2300000
+  },
+  "RFFSHeli_EC135_BlackCamo": {
+    "buy_price": 4600000,
+    "sell_price": 2300000
+  },
+  "RFFSHeli_Ka26": {
+    "buy_price": 4700000,
+    "sell_price": 2350000
+  },
+  "Ka26": {
+    "buy_price": 4700000,
+    "sell_price": 2350000
+  },
+  "RFFSHeli_LittleBird": {
+    "buy_price": 3375000,
+    "sell_price": 1687500
+  },
+  "LittleBird": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RFFSHeli_LittleBird_Camo": {
+    "buy_price": 3375000,
+    "sell_price": 1687500
+  },
+  "RFFSHeli_LittleBird_Desert": {
+    "buy_price": 3375000,
+    "sell_price": 1687500
+  },
+  "RFFSHeli_Mi2": {
+    "buy_price": 4550000,
+    "sell_price": 2275000
+  },
+  "Mi2": {
+    "buy_price": 4550000,
+    "sell_price": 2275000
+  },
+  "RFFSHeli_Mi2_Hornet": {
+    "buy_price": 4550000,
+    "sell_price": 2275000
+  },
+  "RFFSHeli_Mi2_Military": {
+    "buy_price": 4550000,
+    "sell_price": 2275000
+  },
+  "RFFSHeli_R22": {
+    "buy_price": 3200000,
+    "sell_price": 1600000
+  },
+  "R22": {
+    "buy_price": 3200000,
+    "sell_price": 1600000
+  },
+  "RFFSHeli_R22_Black": {
+    "buy_price": 3200000,
+    "sell_price": 1600000
+  },
+  "RFFSHeli_R22_Red": {
+    "buy_price": 3200000,
+    "sell_price": 1600000
+  },
+  "RFFSHeli_S76": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "S76": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_S76_WoodlandCamo": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "RFFSHeli_UH1H": {
+    "buy_price": 4200000,
+    "sell_price": 2100000
+  },
+  "UH1H": {
+    "buy_price": 4200000,
+    "sell_price": 2100000
+  },
+  "RFFSHeli_UH1H_Combat": {
+    "buy_price": 4200000,
+    "sell_price": 2100000
+  },
+  "RFWC_DragBoat_Punisher": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "RFFSHeli_Apache": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion_butterfly": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion_easyrider": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion_mermaid": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion_scorcher": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "TU_Rare_Gold_RFFSLittleBird": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "TU_Donator_CBRN_RFFSLittleBird": {
+    "buy_price": 3375000,
+    "sell_price": 1687500
+  },
+  "TU_Rare_Bronze_RFFSLittleBird": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "TU_Rare_Silver_RFFSLittleBird": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion_ace": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vg7_scorpion_ace_rust": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RFMosquito": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Mosquito": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCivic_Black": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_Civic": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_HondaCivic_Red": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_HondaCivic_White": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_HondaCivic_blue": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "TU_Season5Winner_FrostAbstract_S76": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "MBM_AcuraIntegra_Black": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_Integra": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_AcuraIntegra_Red": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_AcuraIntegra_White": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_AcuraIntegra_Yellow": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_CanAm": {
+    "buy_price": 105000,
+    "sell_price": 52500
+  },
+  "MBM_CanAm_Blue": {
+    "buy_price": 105000,
+    "sell_price": 52500
+  },
+  "MBM_CanAm_Green": {
+    "buy_price": 105000,
+    "sell_price": 52500
+  },
+  "MBM_CanAm_Grey": {
+    "buy_price": 105000,
+    "sell_price": 52500
+  },
+  "MBM_CanAm_Pink": {
+    "buy_price": 105000,
+    "sell_price": 52500
+  },
+  "MBM_HondaCRF450_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_BlackDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_BlueDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_GreenDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_MBM": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_MBMDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_PinkDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_RedDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_YellowDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_ImprezaWRX_Black": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Blue": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Grey": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Lime": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_MBM": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Orange": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Red": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_Black": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_Blue": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_Green": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_Orange": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_Red": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_WRC": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_Rusty_White": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_ImprezaWRX_WRC": {
+    "buy_price": 130000,
+    "sell_price": 65000
+  },
+  "MBM_Polaris500XC_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_MBM": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Porsche918Spyder_Black": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Chrome": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Gold": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Porsche918Spyder_Orange": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Purple": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Shiny": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_Porsche918Spyder_Yellow": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "MBM_ToyotaSupra_Black": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_ToyotaSupra": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_ToyotaSupra_Orange": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_ToyotaSupra_Purple": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_ToyotaSupra_Red": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_ToyotaSupra_White": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_ToyotaSupra_Yellow": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_Yamaha450_Blue": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_Camo": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_CamoPink": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_Green": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_Grey": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_MBM": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_MonsterEnergy": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_Orange": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_Pink": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_Red": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_SplatterBlue": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_Yamaha450_SplatterRed": {
+    "buy_price": 85000,
+    "sell_price": 42500
+  },
+  "MBM_HondaCRF450_W_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_BlackDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_BlueDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_GreenDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_MBM": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_MBMDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_PinkDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_RedDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_W_YellowDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_MBM": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500XC_W_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_W_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_W_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_W_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_W_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_W_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Polaris500_W_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Camo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_CamoPink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_MBM": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_MonsterEnergy": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_SplatterBlue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_Yamaha450_W_SplatterRed": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_BMWM3_Black": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Blue": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Grey": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Lime": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Orange": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Purple": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Red": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_White": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_BMWM3_Yellow": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger_Black": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger_Lime": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger_Orange": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger_Red": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger_White": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_DodgeChallenger_Yellow": {
+    "buy_price": 115000,
+    "sell_price": 57500
+  },
+  "MBM_SuzukiGSXR750_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Butterfly": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_DigiCamo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_DigiCamoRed": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_MBM": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Splatter": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_ChevSuburban_Black": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlackScratched": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlackScratched_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlackScratched_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlackSplatter": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlackSplatter_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlackSplatter_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Black_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Black_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Blue": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlueScratched": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlueScratched_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_BlueScratched_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Blue_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Blue_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Camo": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Camo_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Camo_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Flames_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Green": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_GreenScratched": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_GreenScratched_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_GreenScratched_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Green_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Green_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Grey": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Grey_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Grey_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Orange": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_OrangeScratched": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_OrangeScratched_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_OrangeScratched_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Orange_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Orange_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Red": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_RedDirty": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_RedDirty_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_RedDirty_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_RedScratched": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_RedScratched_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_RedScratched_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Red_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_Red_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_YellowScratched": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_YellowScratched_Lifted": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevSuburban_YellowScratched_Low": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "MBM_ChevyImpala_Baby": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "1967impala": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Black": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Black_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Blue": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Blue_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Blue_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Fronta_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Gold": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_ChevyImpala_Gold_Rusty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_ChevyImpala_Green": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Green_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Green_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_MBM_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Maroon": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Maroon_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_NotaCola_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Pink_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Pipsi_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Plum": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Plum_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Red": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Red_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Red_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Spite_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Turquoise": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Turquoise_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_White": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_White_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Yellow": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Yellow_RaceCar": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "MBM_ChevyImpala_Yellow_Rusty": {
+    "buy_price": 125000,
+    "sell_price": 62500
+  },
+  "Candy_ApolloEVO": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_ApolloEVO_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_ApolloEVO_Orange": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_ApolloEVO_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_ApolloEVO_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_ApolloEVO_Yellow": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW760i": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BMW760i_Black": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BMW760i_BlackBrown": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BMW760i_White": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BMW760i_WhiteBlue": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BMW760i_WhiteRed": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BMWM4": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Grey": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Matte": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Matte_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Matte_Grey": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Matte_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Matte_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Police": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMWM4_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_Black": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_LibertyWalk": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_LibertyWalk_Black": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_LibertyWalk_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_LibertyWalk_Pink": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_BMW_i8_Pink": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_Bentayga": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_Blue": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_Brown": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_Grey": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_Pink": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_Red": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_White": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bentayga_Yellow": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_Blue": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_Brown": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_Grey": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_Pink": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_Red": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_White": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_BrabusEVO_Yellow": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Bronco6x6": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Blue": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Brown": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Camo": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Grey": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Pink": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Red": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Rust": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_White": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_Bronco6x6_Yellow": {
+    "buy_price": 560000,
+    "sell_price": 280000
+  },
+  "Candy_ChevySilver": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Blue": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Brown": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Camo": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Grey": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Pink": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Red": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Rust": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_White": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_ChevySilver_Yellow": {
+    "buy_price": 365000,
+    "sell_price": 182500
+  },
+  "Candy_DefenderLumma": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Blue": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Brown": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Dirt": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Grey": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Pink": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Red": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_White": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_DefenderLumma_Yellow": {
+    "buy_price": 220000,
+    "sell_price": 110000
+  },
+  "Candy_Escalade": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_Blue": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_Brown": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_Grey": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_Pink": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_Red": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_White": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_EscaladeLarte_Yellow": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_Blue": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_Brown": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_Grey": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_Pink": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_Red": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_White": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_Escalade_Yellow": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_FerrMans": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_FerrMans_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_FerrMans_Purple": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_FerrMans_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_FerrMans_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_GMCSierra": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Black": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Blue": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Brown": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Pink": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Red": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Rust": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_White": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GMCSierra_Yellow": {
+    "buy_price": 300000,
+    "sell_price": 150000
+  },
+  "Candy_GenericPickUp": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_GenericPickUp_Black": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_GenericPickUp_Camo": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_GenericPickUp_Red": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_GenericPickUp_White": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Black": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Blue": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Raider_Black": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Raider_Blue": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Raider_Red": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Raider_White": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_Red": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Generic_White": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Gladiator": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Black": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Blue": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Brown": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Camo": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Pink": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Red": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Rust": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_White": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_Gladiator_Yellow": {
+    "buy_price": 305000,
+    "sell_price": 152500
+  },
+  "Candy_GrandCherokee": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Blue": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Brown": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Camo": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Grey": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Pink": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Red": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_White": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_GrandCherokee_Yellow": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_HumSUV": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Blue": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Brown": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Camo": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Green": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Grey": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Pink": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Red": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_White": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HumSUV_Yellow": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_HuracanLW": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_Black": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_Grey": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_Police": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_HuracanLW_Yellow": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_Jeepney": {
+    "buy_price": 540000,
+    "sell_price": 270000
+  },
+  "Candy_Jeepney_Black": {
+    "buy_price": 540000,
+    "sell_price": 270000
+  },
+  "Candy_Jeepney_Green": {
+    "buy_price": 540000,
+    "sell_price": 270000
+  },
+  "Candy_Jeepney_Grey": {
+    "buy_price": 540000,
+    "sell_price": 270000
+  },
+  "Candy_Jeepney_Red": {
+    "buy_price": 540000,
+    "sell_price": 270000
+  },
+  "Candy_Jeepney_White": {
+    "buy_price": 540000,
+    "sell_price": 270000
+  },
+  "Candy_LC500": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Anime": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Beige": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Beige2": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Blue": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Brown": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Grey": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Anime": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Beige": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Beige2": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Blue": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Brown": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Grey": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Matte": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Matte_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Pink": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Sticker": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_White": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_LibertyWalk_Yellow": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Matte": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Matte_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Pink": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Sticker": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_White": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LC500_Yellow": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_LX570ES": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Black": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Blue": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Brown": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Grey": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Pink": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Red": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Sticker": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_LX570ES_Yellow": {
+    "buy_price": 210000,
+    "sell_price": 105000
+  },
+  "Candy_M8Manhart": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_M8Manhart_Blue": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_M8Manhart_Purple": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_M8Manhart_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_M8Manhart_White": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_MAT": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MAT_Destruct": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MAT_Destruct_Black": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Blue": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Brown": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Camo": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Grey": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Pink": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Red": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Rust": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_White": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MBX6x6Carlex_Yellow": {
+    "buy_price": 790000,
+    "sell_price": 395000
+  },
+  "Candy_MECW212": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_MECW212_Black": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_MECW212_Blue": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_MECW212_Red": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_MECW212_White": {
+    "buy_price": 185000,
+    "sell_price": 92500
+  },
+  "Candy_Marauder": {
+    "buy_price": 490000,
+    "sell_price": 245000
+  },
+  "Candy_Marauder_Black": {
+    "buy_price": 490000,
+    "sell_price": 245000
+  },
+  "Candy_Marauder_Green": {
+    "buy_price": 490000,
+    "sell_price": 245000
+  },
+  "Candy_McLarenSenna": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Blue": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Brown": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Forged": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Grey": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Orange": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Pink": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Sticker": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_White": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_McLarenSenna_Yellow": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "Candy_MercGLS": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_Blue": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_Brown": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_Grey": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_Pink": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_Red": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_White": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MercGLS_Yellow": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_MustFrank": {
+    "buy_price": 405000,
+    "sell_price": 202500
+  },
+  "Candy_MustFrank_NoGun": {
+    "buy_price": 405000,
+    "sell_price": 202500
+  },
+  "Candy_MustFrank_NoGun_White": {
+    "buy_price": 405000,
+    "sell_price": 202500
+  },
+  "Candy_MustFrank_White": {
+    "buy_price": 405000,
+    "sell_price": 202500
+  },
+  "Candy_OshkoshApoc": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "Candy_OshkoshApoc_Black": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "Candy_OshkoshApoc_Green": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "Candy_OshkoshApoc_Red": {
+    "buy_price": 235000,
+    "sell_price": 117500
+  },
+  "Candy_PolarisDagor": {
+    "buy_price": 465000,
+    "sell_price": 232500
+  },
+  "Candy_PolarisDagor_Black": {
+    "buy_price": 465000,
+    "sell_price": 232500
+  },
+  "Candy_PolarisDagor_Green": {
+    "buy_price": 465000,
+    "sell_price": 232500
+  },
+  "Candy_PolarisDagor_Guns": {
+    "buy_price": 465000,
+    "sell_price": 232500
+  },
+  "Candy_PolarisDagor_Guns_Black": {
+    "buy_price": 465000,
+    "sell_price": 232500
+  },
+  "Candy_PolarisDagor_Guns_Green": {
+    "buy_price": 465000,
+    "sell_price": 232500
+  },
+  "Candy_PorscheCTGT": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_Blue": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_Brown": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_Grey": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_Pink": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_Red": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_White": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_PorscheCTGT_Yellow": {
+    "buy_price": 190000,
+    "sell_price": 95000
+  },
+  "Candy_Prado": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Blue": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Blue_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Brown": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Brown_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Camo": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Camo_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Grey": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Grey_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Pink": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Pink_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Red": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Red_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Rust": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Rust_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_White": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_White_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Yellow": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_Prado_Yellow_Wald": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_QX80Larta": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Blue": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Brown": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Grey": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Pink": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Red": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Rust": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_White": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_QX80Larta_Yellow": {
+    "buy_price": 250000,
+    "sell_price": 125000
+  },
+  "Candy_R34Hycade": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Black": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Blue": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Brown": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Grey": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Orange": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Pink": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Sticker": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_White": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_R34Hycade_Yellow": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Ram": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Blue": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Brown": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Forged": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Grey": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Pink": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Red": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Rust": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_White": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Ram_Yellow": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Blue": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Brown": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Grey": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Pink": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Police": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Red": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Rust": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_White": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Raptor_Yellow": {
+    "buy_price": 310000,
+    "sell_price": 155000
+  },
+  "Candy_Rezvani": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_Blue": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_Brown": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_Grey": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_Pink": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_Red": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_White": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rezvani_Yellow": {
+    "buy_price": 245000,
+    "sell_price": 122500
+  },
+  "Candy_Rover23": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Beidge": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Beidge2": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Blue": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Brown": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Grey": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Pink": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Red": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_White": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_Rover23_Yellow": {
+    "buy_price": 195000,
+    "sell_price": 97500
+  },
+  "Candy_SWATSUV": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_SWATSUV_Black": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_SWATSUV_Green": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_SWATSUV_Grey": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_SWATSUV_Rust_Black": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_SWATSUV_Rust_Green": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_SWATSUV_Rust_Grey": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_Supra": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_Blue": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_Brown": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_Grey": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_Pink": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_Red": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_White": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Supra_Yellow": {
+    "buy_price": 180000,
+    "sell_price": 90000
+  },
+  "Candy_Tahoe": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Blue": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Brown": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Grey": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Pink": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Police": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Red": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_White": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Tahoe_Yellow": {
+    "buy_price": 295000,
+    "sell_price": 147500
+  },
+  "Candy_Varta": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_Varta_Camo": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_Varta_Grey": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_Varta_Tan": {
+    "buy_price": 500000,
+    "sell_price": 250000
+  },
+  "Candy_X7Khann": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_Blue": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_Brown": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_Grey": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_Pink": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_Red": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_White": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Candy_X7Khann_Yellow": {
+    "buy_price": 240000,
+    "sell_price": 120000
+  },
+  "Boat_01_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Boat_01": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Boat_01_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Boat_01_Camo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Boat_01_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionBus": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Ikarus": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionBus_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionBus_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionBus_Weeb": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionLHD": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LHD": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "merlin": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin_Dahoman": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin_Ion": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin_President": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin_Vrana": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMerlin_Wave": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Mh6": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Blueline": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Digital": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Elliptical": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Furious": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_GrayWatcher": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Jeans": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Resistance": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Shadow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Sheriff": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Speedy": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Sunset": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Vrana": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Wasp": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionMh6_Wave": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionTractor": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Tractor2": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionTractor_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionTractor_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionTractor_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUh1h": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "uh1h": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUh1h_Civilian": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUh1h_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUh1h_Medical": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUh1h_Resistance": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUh1h_Uber": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUtilityBoat": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RHIB": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUtilityBoat_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionUtilityBoat_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionVodnik": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "vodnik": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionVodnik_Camo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ExpansionVodnik_CamoMedical": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Offroad_02": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Vanilla_Offroad": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Vanilla_Sedan": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "TU_Donator_CBRNCamo_CH53e": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Vanilla_Truck_Covered": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Camo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_CamoDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_DigiCamo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_DigiCamoDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_DigiCamoPink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_DigiCamoPinkDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_FullBlack": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_FullBlackDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_FullCamo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_FullCamoDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_MilGreen": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_MilGreenDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_Splatter": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_HondaCRF450_SplatterDirty": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Hex": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_SuzukiGSXR750_Scrap": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RFFSHeli_Blackhawk_blackblackhawk": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "blackhawk": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MBM_GoKart_Blue": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "gokart": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_BlueSplatter": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Camo": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Green": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Grey": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Hearts": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Orange": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Red": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  },
+  "MBM_GoKart_Splatter": {
+    "buy_price": 10000,
+    "sell_price": 10000
+  }
+}
