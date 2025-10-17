@@ -33,6 +33,9 @@ let main = () => {
     // days 11 to 17 are 'winter'days. Adjust this if we want
     // more or fewer winter days
     if (day >= 12 && day <= 16) {
+
+        // enable winter
+        // disable summer
         console.log('Enabling winter mode');
         winterMod['disabled'] = false;
         summerMod['disabled'] = true;
@@ -47,11 +50,11 @@ let main = () => {
         // and the summer map is NOT disabled
         winterMod['disabled'] = true;
         summerMod['disabled'] = false;
-    }
+    } 
 
-    else {
-        // it's Fall or Spring - normal map 
-        // so disable bloth mods
+    /// Fall or spring
+    else {        
+        // so disable bloth maps
         console.log('Disabling winter mode');
         winterMod['disabled'] = true;
         summerMod['disabled'] = true;

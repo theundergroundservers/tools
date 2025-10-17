@@ -10,7 +10,8 @@ import { Link } from 'react-router-dom';
 const mainListItems = [
   { text: 'Home', to: '/', icon: <HomeRoundedIcon /> },
   { text: 'Players', to: '/player', icon: <HomeRoundedIcon /> },
-  { text: 'Trader Data', to: '/trader', icon: <HomeRoundedIcon /> }
+  { text: 'Trader Data', to: '/trader', icon: <HomeRoundedIcon /> },
+  { text: 'Fishing', to: '/fishing', icon: <HomeRoundedIcon /> },
 ];
 
 

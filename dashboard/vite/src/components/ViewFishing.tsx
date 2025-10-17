@@ -1,8 +1,7 @@
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import RawDataGrid from './RawDataGrid';
-
+import FishSalesStackedChart from './FishSalesStackedChart';
 
 export default function ViewPlayerGrid() {
   return (
@@ -17,10 +16,7 @@ export default function ViewPlayerGrid() {
         columns={12}
         sx={{ mb: (theme) => theme.spacing(2) }}
       >
-        <Grid size={{ xs: 12, md: 12 }}>          
-          <RawDataGrid />
-        </Grid>        
-
+        <FishSalesStackedChart days={30} />        
       </Grid>
     </Box>
   );

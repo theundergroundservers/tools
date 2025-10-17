@@ -20,6 +20,7 @@
     "@mui/x-data-grid": "^8.5.2",
     "@mui/x-data-grid-pro": "^8.5.2",
     "@mui/x-date-pickers": "^8.5.2",
+    "dayjs": "^1.11.18",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.2"

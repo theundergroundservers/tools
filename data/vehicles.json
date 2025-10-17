@@ -296,10 +296,14 @@
     "sell_price": 2025000
   },
   "S76": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "RFFSHeli_S76_WoodlandCamo": {
     "buy_price": 4050000,
     "sell_price": 2025000
   },
-  "RFFSHeli_S76_WoodlandCamo": {
+  "TU_Season6Winner_JWillPhantom_S76": {
     "buy_price": 4050000,
     "sell_price": 2025000
   },
@@ -396,6 +400,10 @@
     "sell_price": 62500
   },
   "TU_Season5Winner_FrostAbstract_S76": {
+    "buy_price": 4050000,
+    "sell_price": 2025000
+  },
+  "TU_Season6Winner_ElfinCarbonFiber_S76": {
     "buy_price": 4050000,
     "sell_price": 2025000
   },
@@ -3242,5 +3250,21 @@
   "MBM_GoKart_Splatter": {
     "buy_price": 10000,
     "sell_price": 10000
+  },
+  "TU_Donator_Wicked_RFFSLittleBird": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "little_bird": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "TU_Season6Winner_JWillGhost_S76": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Boat_Do_Not_Spawn": {
+    "buy_price": -1,
+    "sell_price": -1
   }
 }

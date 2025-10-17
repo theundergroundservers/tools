@@ -49,10 +49,6 @@ def get_data():
     to_files(data)
     return data
 
-def main(): 
-    data = get_data()
-    to_files(data)
-
 def parse_log_folders(logs_dir, vehicle_prices):
     print(f'parsing {logs_dir}')
     dataset = []
