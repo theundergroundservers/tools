@@ -3266,5 +3266,497 @@
   "Boat_Do_Not_Spawn": {
     "buy_price": -1,
     "sell_price": -1
+  },
+  "AudiRS6": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_ChromePurple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_Gray": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS6_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS7Sportback": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS7Sportback_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS7Sportback_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS7Sportback_Chrome": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS7Sportback_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "AudiRS7Sportback_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Grey": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Pink": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWM5CompF9_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWX6M": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWX6M_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWX6M_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BMWX6M_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_Chrome": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_DarkRed": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_OrangeFlame": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "BentleyMullinerBacalar_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_Lime": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "DodgeChargerSRTHellcat_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordBroncoXLT80": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordBroncoXLT80_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordBroncoXLT80_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordBroncoXLT80_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordBroncoXLT80_Rust": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordVelociraptor6x6": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordVelociraptor6x6_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordVelociraptor6x6_ChromeBlue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordVelociraptor6x6_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "FordVelociraptor6x6_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "GolfMK7": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "GolfMK7_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "GolfMK7_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "GolfMK7_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "GolfMK7_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LANEvoque2016": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LANEvoque2016_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LANEvoque2016_ChromePurple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LANEvoque2016_Gold": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LANEvoque2016_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LANEvoque2016_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Chrome": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Gold": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Orange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LamboUrus_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LancerEvoIX": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LancerEvoIX_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LancerEvoIX_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LancerEvoIX_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "LancerEvoIX_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesAMGGT2020": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesAMGGT2020_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesAMGGT2020_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesAMGGT2020_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesAMGGT2020_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesG63AMG": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesG63AMG_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesG63AMG_MatteBlack": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesG63AMG_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "MercedesG63AMG_WhiteCamo": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Nissan350Z": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Nissan350Z_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Nissan350Z_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Nissan350Z_NonDecaled": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Nissan350Z_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Nissan350Z_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Porsche911GTRS2018": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Porsche911GTRS2018_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Porsche911GTRS2018_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Porsche911GTRS2018_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Porsche911GTRS2018_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Porsche911GTRS2018_Yellow": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_BlackGreen": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_BlackOrange": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_BlackRed": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_GreenBlack": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_MaroonSilver": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_OrangeBlack": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "ShelbySuperSnake19_WhiteBlack": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_Blue": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_Chrome": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_Green": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_Red": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "SubaruImprezaWRXF4_White": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "VWGolfGTI": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "VWGolfGTI_Black": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "VWGolfGTI_Gold": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "VWGolfGTI_Purple": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "VWGolfGTI_Red": {
+    "buy_price": -1,
+    "sell_price": -1
   }
 }

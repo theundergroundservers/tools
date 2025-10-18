@@ -14,6 +14,8 @@ export interface RawDataItem {
     quantity: number;
     price: number;
     zone: string;
+    bohemia_id: string;
+    player_group: string;
 }
 
 // Async data fetcher
@@ -40,4 +42,6 @@ export const columns: GridColDef[] = [
     { field: 'quantity', headerName: 'Qty', headerAlign: 'right', align: 'right', flex: 1, minWidth: 30 },
     { field: 'price', headerName: '$Price', headerAlign: 'right', align: 'right', flex: 1, minWidth: 100 },
     { field: 'zone', headerName: 'Zone', headerAlign: 'right', align: 'left', flex: 1, minWidth: 100 },
+    { field: 'bohemia_id', headerName: 'BohemiaId', headerAlign: 'right', align: 'left', flex: 1, minWidth: 100 },
+    { field: 'player_group', headerName: 'Group', headerAlign: 'right', align: 'left', flex: 1, minWidth: 100 },
 ];

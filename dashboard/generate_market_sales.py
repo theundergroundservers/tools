@@ -39,17 +39,29 @@ PATTERN_VEHICLE_GARAGE_SELL = re.compile(
     r"\((?P<player_id>\d+)\) TraderID: (?P<trader_id>\d+) VehicleUID: (?P<vehicle_uid>\d+)"
 )
 
-def get_data(): 
+def get_data(player_data): 
+
+    player_steam = {}
+   
+
+    for x in player_data:
+        print (x)
+        steam_id = str(x["player_steam_id"])
+        player_steam[steam_id] = x
+ 
+
+
     logs_dir = '../../omega/servers/season-6/logs'
     vehicle_price_file = '../../omega/servers/season-6/profiles/LBMaster/config/LBGarage/vehicles.json'
 
     vehicle_prices = get_lb_vehicles_map(vehicle_price_file)
-    data = parse_log_folders(logs_dir, vehicle_prices)
+    data = parse_log_folders(logs_dir, vehicle_prices, player_steam)
     data = post_process(data)
     to_files(data)
     return data
 
-def parse_log_folders(logs_dir, vehicle_prices):
+
+def parse_log_folders(logs_dir, vehicle_prices, player_steam):
     print(f'parsing {logs_dir}')
     dataset = []
     for dirpath, dirnames, filenames in os.walk(logs_dir):
@@ -59,7 +71,7 @@ def parse_log_folders(logs_dir, vehicle_prices):
                 print(f'opening {file_path}')                    
                 with open(file_path, 'r', encoding='utf-8') as f:        
                     print(f'opened {file_path}')                    
-                    file_data = parse_file(f, filename, vehicle_prices)
+                    file_data = parse_file(f, filename, vehicle_prices, player_steam)
                     dataset.extend(file_data)
 
     print(len(dataset))
@@ -76,7 +88,7 @@ def process_script_file_time(data, filename, line):
         data['date'] = date_str                    
         
     
-def parse_file(file_content, filename, vehicle_prices):
+def parse_file(file_content, filename, vehicle_prices, player_steam):
     print(f"PROCESSING {filename}")    
     dataset = []
     while line := file_content.readline():   
@@ -94,6 +106,7 @@ def parse_file(file_content, filename, vehicle_prices):
             
             time_str = match.group(1)
             data['time'] = time_str
+            data["bohemia_id"] = data["id"]
 
 
         elif match_buy:
@@ -102,7 +115,9 @@ def parse_file(file_content, filename, vehicle_prices):
             match = re.search(r"(\d{2}:\d{2}:\d{2}(?:\.\d{1,3})?)", line)
             
             time_str = match.group(1)
-            data['time'] = time_str            
+            data['time'] = time_str
+
+            data["bohemia_id"] = data["id"]
         
         elif match_garrage_buy:
             parsed_data = match_garrage_buy.groupdict()
@@ -112,8 +127,12 @@ def parse_file(file_content, filename, vehicle_prices):
             dt = datetime.strptime(parsed_data['datetime'], '%d.%m.%Y %H:%M:%S')
             str_time = dt.strftime('%H:%M:%S')  # e.g., '10:21:39'
         
-            # Default fields to maintain compatibility with the original format
+            steam_id =  parsed_data["player_id"]
+            bohemia_id = player_steam[steam_id]["bohemia_id"]
+            
+
             data = {
+                "bohemia_id": bohemia_id,
                 "player": parsed_data["player"],
                 "item": parsed_data["item"],
                 "time": str_time,
@@ -137,6 +156,7 @@ def parse_file(file_content, filename, vehicle_prices):
         
             # Default fields to maintain compatibility with the original format
             data = {
+                "bohemia_id": parsed_data["player_id"],
                 "player": parsed_data["player"],                
                 "item": parsed_data["item"],
                 "time": str_time,
@@ -149,8 +169,6 @@ def parse_file(file_content, filename, vehicle_prices):
                 "type": 'sell',
                 "price": price
             } 
-
-            
 
         if data != None:
             process_script_file_time(data, filename, line)

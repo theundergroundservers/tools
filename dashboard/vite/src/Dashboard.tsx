@@ -10,6 +10,8 @@ import Header from './components/Header';
 import ViewMainGrid from './components/ViewMainGrid';
 import ViewPlayerPositionGrid from './components/ViewPlayerPositionGrid';
 import ViewTraderDataGrid from './components/ViewTraderDataGrid';
+import GroupSalesDashboard from './components/GroupSalesDashboard';
+
 import ViewFishing from './components/ViewFishing';
 import SideMenu from './components/SideMenu';
 import AppTheme from './theme/AppTheme';
@@ -60,6 +62,8 @@ export default function Dashboard(props: { disableCustomTheme?: boolean }) {
                 <Route path="/player" element={<ViewPlayerPositionGrid />} />
                 <Route path="/trader" element={<ViewTraderDataGrid />} />
                 <Route path="/fishing" element={<ViewFishing />} />
+                <Route path="/group" element={<GroupSalesDashboard />} />
+                GroupSalesDashboard
               </Routes>
 
             </Stack>

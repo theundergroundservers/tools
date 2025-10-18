@@ -12,7 +12,8 @@ from flask_limiter.util import get_remote_address
 from werkzeug.security import check_password_hash, generate_password_hash
 import pandas as pd
 import generate_market_sales as gen
-import generate_position_data as pos
+import generate_position_data as pos_data
+import get_player_data as player_data
 
 # --- Flask setup ---
 app = Flask(__name__)
@@ -49,27 +50,113 @@ def serve_frontend(path='index.html'):
 def load_data():
     global raw
     global pos
-    
-    raw_data = gen.get_data()
-    raw = pd.DataFrame(raw_data)
-    raw['id'] = range(len(raw_data))
+    global player
+
+    # Get the player data
+    p_data = player_data.get_data()
+    player = pd.DataFrame(p_data)
+        
+    raw = pd.DataFrame(gen.get_data(p_data))
+    raw['id'] = range(len(raw))
     raw['price'] = pd.to_numeric(raw['price'], errors='coerce')
     raw['date'] = pd.to_datetime(raw['str_date'])
     raw['quantity'] = pd.to_numeric(raw['quantity'], errors='coerce')    
-    
-    pos_data = pos.get_data()
-    pos = pd.DataFrame(pos_data)
+        
+    pos = pd.DataFrame(pos_data.get_data())
     pos['id'] = range(len(pos))    
     pos['date'] = pd.to_datetime(pos['str_date'])
     pos["ts"] = pd.to_datetime(pos["str_date_time"], utc=True, errors="coerce")
     pos["ts"] = pos["ts"].fillna(pd.to_datetime(pos["date"], utc=True, errors="coerce"))    
+
+
+    # Join player data 
+    raw =  pd.merge(raw, player, on='bohemia_id', how='left')
+
+    print(raw)
+    
     
 @app.route('/api/raw_data', methods=['GET'])
 @cross_origin()
 @auth.login_required
 def get_raw_data():
     global raw
-    return jsonify(raw.to_dict(orient='records'))
+    payload = raw.to_json(orient="records", date_format="iso")
+    return payload
+
+@app.route('/api/players', methods=['GET'])
+@cross_origin()
+@auth.login_required
+def get_players():
+    global player
+    payload = player.to_json(orient="records", date_format="iso")
+    return payload
+
+@app.route('/api/group_sales', methods=['GET'])
+@cross_origin()
+@auth.login_required
+def group_sales():
+    global raw
+
+    # --- base totals (buy/sell + net) ---
+    df = (
+        raw.groupby(["player_group", "type"], dropna=False)["price"]
+           .sum()
+           .unstack(fill_value=0)
+           .reset_index()
+           .rename(columns={"buy": "total_buy", "sell": "total_sell"})
+    )
+    df["net"] = df["total_sell"] - df["total_buy"]
+
+    # --- member counts (unique players per group) ---
+    member_counts = (
+        raw.groupby("player_group")["bohemia_id"]
+           .nunique()
+           .reset_index(name="total_members")
+    )
+    df = pd.merge(df, member_counts, on="player_group", how="left")
+
+    # --- category aggregation ---
+    sell = raw[raw["type"] == "sell"].copy()
+    sell["category"] = sell["category"].fillna("Unknown")
+
+    cat_sums = (
+        sell.groupby(["player_group", "category"], dropna=False)["price"]
+            .sum()
+            .reset_index()
+    )
+
+    # get top 2 categories per group
+    top2 = (
+        cat_sums.sort_values(["player_group", "price"], ascending=[True, False])
+                .groupby("player_group")
+                .head(2)
+    )
+
+    # build description text
+    def make_description(cats):
+        if len(cats) == 0:
+            return "Inactive or has no recorded sales."
+        elif len(cats) == 1:
+            return f"This group primarily trades in {cats[0].lower()}."
+        elif len(cats) == 2:
+            return f"This group is known for {cats[0].lower()} and {cats[1].lower()} trades."
+        else:
+            return f"This group has diverse interests, mainly {', '.join(c.lower() for c in cats[:2])}."
+
+    descriptions = (
+        top2.groupby("player_group")["category"]
+            .apply(lambda x: make_description(x.tolist()))
+            .reset_index(name="description")
+    )
+
+    df = pd.merge(df, descriptions, on="player_group", how="left")
+
+    # sort by total_sell (highest first)
+    df = df.sort_values("total_sell", ascending=False)
+
+    payload = df.to_json(orient="records", date_format="iso")
+    return payload
+
 
 @app.route('/api/pos_data', methods=['GET'])
 @cross_origin()
@@ -86,8 +173,6 @@ def get_pos_data():
     """
 
     df = pd.DataFrame(pos)
-
-
 
     ts_raw = request.args.get("ts", "").strip()
     if not ts_raw:
