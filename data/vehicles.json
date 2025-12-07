@@ -48,282 +48,14 @@
     "sell_price": 27500
   },
   "Truck_01_Covered_Orange": {
-    "buy_price": 75000,
-    "sell_price": 37500
+    "buy_price": -1,
+    "sell_price": -1
   },
   "Truck_01_Covered": {
     "buy_price": -1,
     "sell_price": -1
   },
   "Truck_01_Covered_Blue": {
-    "buy_price": 75000,
-    "sell_price": 37500
-  },
-  "RFWC_CarpBoat": {
-    "buy_price": 95000,
-    "sell_price": 47500
-  },
-  "carpboat": {
-    "buy_price": 95000,
-    "sell_price": 47500
-  },
-  "RFWC_CarpBoat_Rusty": {
-    "buy_price": 95000,
-    "sell_price": 47500
-  },
-  "RFWC_DragBoat_Black": {
-    "buy_price": 115000,
-    "sell_price": 57500
-  },
-  "DragBoat": {
-    "buy_price": 115000,
-    "sell_price": 57500
-  },
-  "RFWC_DragBoat_Blue": {
-    "buy_price": 115000,
-    "sell_price": 57500
-  },
-  "RFWC_DragBoat_Red": {
-    "buy_price": 115000,
-    "sell_price": 57500
-  },
-  "RFWC_Seadoo_Camo": {
-    "buy_price": 65000,
-    "sell_price": 32500
-  },
-  "Seadoo": {
-    "buy_price": 65000,
-    "sell_price": 32500
-  },
-  "RFWC_Seadoo_Green": {
-    "buy_price": 65000,
-    "sell_price": 32500
-  },
-  "RFWC_Seadoo_Orange": {
-    "buy_price": 65000,
-    "sell_price": 32500
-  },
-  "RFWC_Whaler": {
-    "buy_price": 95000,
-    "sell_price": 47500
-  },
-  "Whaler": {
-    "buy_price": 95000,
-    "sell_price": 47500
-  },
-  "RFWC_Zodiac_Black": {
-    "buy_price": 55000,
-    "sell_price": 27500
-  },
-  "Zodiac": {
-    "buy_price": 55000,
-    "sell_price": 27500
-  },
-  "RFWC_Zodiac_Orange": {
-    "buy_price": 55000,
-    "sell_price": 27500
-  },
-  "RFFSHeli_AS350": {
-    "buy_price": 4600000,
-    "sell_price": 2300000
-  },
-  "AS350": {
-    "buy_price": 4600000,
-    "sell_price": 2300000
-  },
-  "RFFSHeli_Apache_Grey": {
-    "buy_price": 3850000,
-    "sell_price": 1925000
-  },
-  "Apache": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "RFFSHeli_Apache_Desert": {
-    "buy_price": 3850000,
-    "sell_price": 1925000
-  },
-  "RFFSHeli_Apache_Winter": {
-    "buy_price": 3850000,
-    "sell_price": 1925000
-  },
-  "RFFSHeli_Bell429": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "Bell429": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "RFFSHeli_Bell429_Medic": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "RFFSHeli_Bell429_Police": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "RFFSHeli_Bell429_Uganda": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "RFFSHeli_Bell429_ZS": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "RFFSHeli_Blackhawk": {
-    "buy_price": 5000000,
-    "sell_price": 2500000
-  },
-  "Blackhawk": {
-    "buy_price": 5000000,
-    "sell_price": 2500000
-  },
-  "RFFSHeli_Blackhawk_Budhawk": {
-    "buy_price": 5000000,
-    "sell_price": 2500000
-  },
-  "RFFSHeli_Blackhawk_Cargo": {
-    "buy_price": 5000000,
-    "sell_price": 2500000
-  },
-  "RFFSHeli_Blackhawk_Woodland": {
-    "buy_price": 5000000,
-    "sell_price": 2500000
-  },
-  "RFFSHeli_Blackhawk_blackBlackhawk": {
-    "buy_price": 5000000,
-    "sell_price": 2500000
-  },
-  "RFFSHeli_Bo105m": {
-    "buy_price": 3950000,
-    "sell_price": 1975000
-  },
-  "Bo105m": {
-    "buy_price": 3950000,
-    "sell_price": 1975000
-  },
-  "RFFSHeli_Bo105m_blackcamo": {
-    "buy_price": 3950000,
-    "sell_price": 1975000
-  },
-  "RFFSHeli_CH47": {
-    "buy_price": 7650000,
-    "sell_price": 3975000
-  },
-  "CH47": {
-    "buy_price": 7650000,
-    "sell_price": 3975000
-  },
-  "RFFSHeli_CH53e": {
-    "buy_price": 7650000,
-    "sell_price": 3975000
-  },
-  "CH53E": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "RFFSHeli_EC135": {
-    "buy_price": 4600000,
-    "sell_price": 2300000
-  },
-  "EC135": {
-    "buy_price": 4600000,
-    "sell_price": 2300000
-  },
-  "RFFSHeli_EC135_BlackCamo": {
-    "buy_price": 4600000,
-    "sell_price": 2300000
-  },
-  "RFFSHeli_Ka26": {
-    "buy_price": 4700000,
-    "sell_price": 2350000
-  },
-  "Ka26": {
-    "buy_price": 4700000,
-    "sell_price": 2350000
-  },
-  "RFFSHeli_LittleBird": {
-    "buy_price": 3375000,
-    "sell_price": 1687500
-  },
-  "LittleBird": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "RFFSHeli_LittleBird_Camo": {
-    "buy_price": 3375000,
-    "sell_price": 1687500
-  },
-  "RFFSHeli_LittleBird_Desert": {
-    "buy_price": 3375000,
-    "sell_price": 1687500
-  },
-  "RFFSHeli_Mi2": {
-    "buy_price": 4550000,
-    "sell_price": 2275000
-  },
-  "Mi2": {
-    "buy_price": 4550000,
-    "sell_price": 2275000
-  },
-  "RFFSHeli_Mi2_Hornet": {
-    "buy_price": 4550000,
-    "sell_price": 2275000
-  },
-  "RFFSHeli_Mi2_Military": {
-    "buy_price": 4550000,
-    "sell_price": 2275000
-  },
-  "RFFSHeli_R22": {
-    "buy_price": 3200000,
-    "sell_price": 1600000
-  },
-  "R22": {
-    "buy_price": 3200000,
-    "sell_price": 1600000
-  },
-  "RFFSHeli_R22_Black": {
-    "buy_price": 3200000,
-    "sell_price": 1600000
-  },
-  "RFFSHeli_R22_Red": {
-    "buy_price": 3200000,
-    "sell_price": 1600000
-  },
-  "RFFSHeli_S76": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "S76": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "RFFSHeli_S76_WoodlandCamo": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "TU_Season6Winner_JWillPhantom_S76": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "RFFSHeli_UH1H": {
-    "buy_price": 4200000,
-    "sell_price": 2100000
-  },
-  "UH1H": {
-    "buy_price": 4200000,
-    "sell_price": 2100000
-  },
-  "RFFSHeli_UH1H_Combat": {
-    "buy_price": 4200000,
-    "sell_price": 2100000
-  },
-  "RFWC_DragBoat_Punisher": {
-    "buy_price": 115000,
-    "sell_price": 57500
-  },
-  "RFFSHeli_Apache": {
     "buy_price": -1,
     "sell_price": -1
   },
@@ -347,35 +79,11 @@
     "buy_price": -1,
     "sell_price": -1
   },
-  "TU_Rare_Gold_RFFSLittleBird": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "TU_Donator_CBRN_RFFSLittleBird": {
-    "buy_price": 3375000,
-    "sell_price": 1687500
-  },
-  "TU_Rare_Bronze_RFFSLittleBird": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "TU_Rare_Silver_RFFSLittleBird": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
   "vg7_scorpion_ace": {
     "buy_price": -1,
     "sell_price": -1
   },
   "vg7_scorpion_ace_rust": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "RFMosquito": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "Mosquito": {
     "buy_price": -1,
     "sell_price": -1
   },
@@ -398,14 +106,6 @@
   "MBM_HondaCivic_blue": {
     "buy_price": 125000,
     "sell_price": 62500
-  },
-  "TU_Season5Winner_FrostAbstract_S76": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
-  },
-  "TU_Season6Winner_ElfinCarbonFiber_S76": {
-    "buy_price": 4050000,
-    "sell_price": 2025000
   },
   "MBM_AcuraIntegra_Black": {
     "buy_price": 125000,
@@ -648,8 +348,8 @@
     "sell_price": 87500
   },
   "MBM_Porsche918Spyder_Gold": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MBM_Porsche918Spyder_Orange": {
     "buy_price": 175000,
@@ -1256,12 +956,12 @@
     "sell_price": 62500
   },
   "MBM_ChevyImpala_Gold": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 125000,
+    "sell_price": 62500
   },
   "MBM_ChevyImpala_Gold_Rusty": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 125000,
+    "sell_price": 62500
   },
   "MBM_ChevyImpala_Green": {
     "buy_price": 125000,
@@ -3119,10 +2819,6 @@
     "buy_price": -1,
     "sell_price": -1
   },
-  "TU_Donator_CBRNCamo_CH53e": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
   "Vanilla_Truck_Covered": {
     "buy_price": -1,
     "sell_price": -1
@@ -3203,14 +2899,6 @@
     "buy_price": -1,
     "sell_price": -1
   },
-  "RFFSHeli_Blackhawk_blackblackhawk": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "blackhawk": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
   "MBM_GoKart_Blue": {
     "buy_price": 10000,
     "sell_price": 10000
@@ -3251,117 +2939,105 @@
     "buy_price": 10000,
     "sell_price": 10000
   },
-  "TU_Donator_Wicked_RFFSLittleBird": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "little_bird": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
-  "TU_Season6Winner_JWillGhost_S76": {
-    "buy_price": -1,
-    "sell_price": -1
-  },
   "Boat_Do_Not_Spawn": {
     "buy_price": -1,
     "sell_price": -1
   },
   "AudiRS6": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_ChromePurple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_Gray": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_Green": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_Orange": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS6_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS7Sportback": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS7Sportback_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS7Sportback_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS7Sportback_Chrome": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS7Sportback_Grey": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "AudiRS7Sportback_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Green": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Grey": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Orange": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Pink": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Purple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWM5CompF9_Yellow": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BMWX6M": {
     "buy_price": -1,
@@ -3380,108 +3056,108 @@
     "sell_price": -1
   },
   "BentleyMullinerBacalar": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_Chrome": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_DarkRed": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_Green": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_OrangeFlame": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "BentleyMullinerBacalar_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_Lime": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_Purple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "DodgeChargerSRTHellcat_Yellow": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "FordBroncoXLT80": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 155000,
+    "sell_price": 77500
   },
   "FordBroncoXLT80_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 155000,
+    "sell_price": 77500
   },
   "FordBroncoXLT80_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 155000,
+    "sell_price": 77500
   },
   "FordBroncoXLT80_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 155000,
+    "sell_price": 77500
   },
   "FordBroncoXLT80_Rust": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 155000,
+    "sell_price": 77500
   },
   "FordVelociraptor6x6": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 240000,
+    "sell_price": 120000
   },
   "FordVelociraptor6x6_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 240000,
+    "sell_price": 120000
   },
   "FordVelociraptor6x6_ChromeBlue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 240000,
+    "sell_price": 120000
   },
   "FordVelociraptor6x6_Orange": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 240000,
+    "sell_price": 120000
   },
   "FordVelociraptor6x6_Purple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 240000,
+    "sell_price": 120000
   },
   "GolfMK7": {
     "buy_price": -1,
@@ -3504,259 +3180,435 @@
     "sell_price": -1
   },
   "LANEvoque2016": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LANEvoque2016_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LANEvoque2016_ChromePurple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LANEvoque2016_Gold": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LANEvoque2016_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LANEvoque2016_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Chrome": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Gold": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Green": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Orange": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Purple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LamboUrus_Yellow": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LancerEvoIX": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LancerEvoIX_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LancerEvoIX_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LancerEvoIX_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "LancerEvoIX_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MercedesAMGGT2020": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MercedesAMGGT2020_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MercedesAMGGT2020_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MercedesAMGGT2020_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MercedesAMGGT2020_Yellow": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "MercedesG63AMG": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 185000,
+    "sell_price": 92500
   },
   "MercedesG63AMG_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 185000,
+    "sell_price": 92500
   },
   "MercedesG63AMG_MatteBlack": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 185000,
+    "sell_price": 92500
   },
   "MercedesG63AMG_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 185000,
+    "sell_price": 92500
   },
   "MercedesG63AMG_WhiteCamo": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 185000,
+    "sell_price": 92500
   },
   "Nissan350Z": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Nissan350Z_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Nissan350Z_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Nissan350Z_NonDecaled": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Nissan350Z_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Nissan350Z_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Porsche911GTRS2018": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Porsche911GTRS2018_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Porsche911GTRS2018_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Porsche911GTRS2018_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Porsche911GTRS2018_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "Porsche911GTRS2018_Yellow": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_BlackGreen": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_BlackOrange": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_BlackRed": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_GreenBlack": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_MaroonSilver": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_OrangeBlack": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "ShelbySuperSnake19_WhiteBlack": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_Blue": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_Chrome": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_Green": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_Purple": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_Red": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "SubaruImprezaWRXF4_White": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "VWGolfGTI": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "VWGolfGTI_Black": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "VWGolfGTI_Gold": {
-    "buy_price": -1,
-    "sell_price": -1
+    "buy_price": 175000,
+    "sell_price": 87500
   },
   "VWGolfGTI_Purple": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "VWGolfGTI_Red": {
+    "buy_price": 175000,
+    "sell_price": 87500
+  },
+  "HeliMH6_SIB": {
+    "buy_price": 2925000,
+    "sell_price": 1462500
+  },
+  "MH6": {
     "buy_price": -1,
     "sell_price": -1
   },
-  "VWGolfGTI_Red": {
+  "HeliMH6_SIB_clear": {
     "buy_price": -1,
     "sell_price": -1
+  },
+  "HeliMH6_SIB_d": {
+    "buy_price": 2925000,
+    "sell_price": 1462500
+  },
+  "HeliMH6_SIB_d_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliMI17_SIB": {
+    "buy_price": 5825000,
+    "sell_price": 2912500
+  },
+  "mi17": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliMI17_SIB_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_UH1D": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "uh1d": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "HeliSIB_UH1D_airforce": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "HeliSIB_UH1D_airforce_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_UH1D_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_UH1D_iron": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "HeliSIB_UH1D_iron_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_UH1D_navy": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "HeliSIB_UH1D_navy_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_UH1H": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "HeliSIB_UH1H2": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_hommade": {
+    "buy_price": 1062500,
+    "sell_price": 531250
+  },
+  "hommade": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_hommade_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliScout_mk_SIB": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "Scout_mk": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliScout_mk_SIB_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliXH9_SIB": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "XH9": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliXH9_SIB_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Heliblack_hawk_SIB": {
+    "buy_price": 3175000,
+    "sell_price": 1587500
+  },
+  "black_hawk": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Heliblack_hawk_SIB_camo": {
+    "buy_price": 3175000,
+    "sell_price": 1587500
+  },
+  "Heliblack_hawk_SIB_camo_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Heliblack_hawk_SIB_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Heliec135_SIB": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "EC135": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Heliec135_SIB_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Heliec135_SIB_hell": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "Heliec135_SIB_hell_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Helipolice_SIB4": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "police": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Helipolice_SIB4_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "Helipolice_swat_SIB5": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
+  },
+  "Helipolice_swat_SIB5_clear": {
+    "buy_price": -1,
+    "sell_price": -1
+  },
+  "HeliSIB_UH1D_taxi": {
+    "buy_price": 3025000,
+    "sell_price": 1512500
   }
 }
